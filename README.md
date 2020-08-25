@@ -18,3 +18,7 @@ select raw and type JSON
     "email":"test@gmail.com",
     "password":"password"
 }
+
+go to issue section for screenshots
+
+
