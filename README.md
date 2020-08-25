@@ -8,7 +8,9 @@ To test api go to postman.
 
 Paste url
 
-http://localhost:8000/api/signup(POST method)
+(POST method)
+
+http://localhost:8000/api/signup
 
 select raw and type JSON
 {
